@@ -4,10 +4,7 @@
 
 <!DOCTYPE html>
 <html>
-<head>
-	<title></title>
-</head>
 <body>
-<p>test2</p>
+<p>test3</p>
 </body>
 </html>
